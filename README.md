@@ -1,5 +1,5 @@
 # FrackMan
-UCLA CS32 2D Game Project
+2D Arcade Game similar to Dig Dug
 
 The player controls an oil fracker searching for barrels of oil in a 2D dirt field while evading protesters. Along the way, he can collect goodies such as: <br>
 <ul>
